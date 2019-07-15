@@ -5,4 +5,3 @@ def square_array(numbers)
 end
 
 
-a.each {|x| print x, " -- " }
