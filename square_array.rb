@@ -3,3 +3,6 @@ def square_array(numbers)
   numbers.each |**|
   square_array(new_numbers)
 end
+
+
+a.each {|x| print x, " -- " }
